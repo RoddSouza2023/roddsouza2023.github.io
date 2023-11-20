@@ -289,6 +289,10 @@ nav.navbar.bootsnav .navbar-toggle i{color: #0327be;}
     padding-right: 22px;
     cursor:pointer;
     color: #fff;
+    &:hover {
+        color: cyan;
+        scale: 105%;
+    }
 }
 .about-list-icon ul li a {
     cursor: pointer;
